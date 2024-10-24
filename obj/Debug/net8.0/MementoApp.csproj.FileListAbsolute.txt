@@ -1,0 +1,14 @@
+C:\Users\abhis\OneDrive\Desktop\MEMENTO APP\MementoApp\bin\Debug\net8.0\MementoApp.exe
+C:\Users\abhis\OneDrive\Desktop\MEMENTO APP\MementoApp\bin\Debug\net8.0\MementoApp.deps.json
+C:\Users\abhis\OneDrive\Desktop\MEMENTO APP\MementoApp\bin\Debug\net8.0\MementoApp.runtimeconfig.json
+C:\Users\abhis\OneDrive\Desktop\MEMENTO APP\MementoApp\bin\Debug\net8.0\MementoApp.dll
+C:\Users\abhis\OneDrive\Desktop\MEMENTO APP\MementoApp\bin\Debug\net8.0\MementoApp.pdb
+C:\Users\abhis\OneDrive\Desktop\MEMENTO APP\MementoApp\obj\Debug\net8.0\MementoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhis\OneDrive\Desktop\MEMENTO APP\MementoApp\obj\Debug\net8.0\MementoApp.AssemblyInfoInputs.cache
+C:\Users\abhis\OneDrive\Desktop\MEMENTO APP\MementoApp\obj\Debug\net8.0\MementoApp.AssemblyInfo.cs
+C:\Users\abhis\OneDrive\Desktop\MEMENTO APP\MementoApp\obj\Debug\net8.0\MementoApp.csproj.CoreCompileInputs.cache
+C:\Users\abhis\OneDrive\Desktop\MEMENTO APP\MementoApp\obj\Debug\net8.0\MementoApp.dll
+C:\Users\abhis\OneDrive\Desktop\MEMENTO APP\MementoApp\obj\Debug\net8.0\refint\MementoApp.dll
+C:\Users\abhis\OneDrive\Desktop\MEMENTO APP\MementoApp\obj\Debug\net8.0\MementoApp.pdb
+C:\Users\abhis\OneDrive\Desktop\MEMENTO APP\MementoApp\obj\Debug\net8.0\MementoApp.genruntimeconfig.cache
+C:\Users\abhis\OneDrive\Desktop\MEMENTO APP\MementoApp\obj\Debug\net8.0\ref\MementoApp.dll
